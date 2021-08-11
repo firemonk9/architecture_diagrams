@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T00:40:07.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="s5AkK5jdDaB0KCTi2OJD" version="14.9.5" type="github"><diagram id="7rizAYMq0ALZ2gmKse8H" name="Page-1">5VnbbuM2EP0aA+1DBF0sXx5jO+q2yLYLuEW7TwYl0RJjSdSSVGzn6zsjUbZlKjfUSRA0eYg5HFHkmTNzhs7Am+e7XwQp0688ptnAtePdwFsMXNeZTibwBy37xjIe240hESzWTkfDkj1QbWzdKhZT2XFUnGeKlV1jxIuCRqpjI0LwbddtzbPuW0uSUMOwjEhmWv9msUob68S3j/YvlCVp+2bH1jM5aZ21QaYk5tsTk3cz8OaCc9V8yndzmiF4LS7Nc8Ejs4eNCVqolzzw+x9Xk9svm8WfUcXC4nscxMsfV0O9N7VvD0xjOL8ecqFSnvCCZDdH60zwqogprmrD6Ohzy3kJRgeMd1SpvQ4mqRQHU6ryTM/ChsX+H3ze8tvh99O5xU4v3oz2p6NvVLCcKiq0sTkA7vpRXLRJ8kpE9AkwWn4RkVD1hJ93iB7QnnLYjdjDc4JmRLH77j6I5l9y8DuGCD7oKL0iYqOPiNgHgOx/JMh63XuSVfpNf/1q4N5FdZsyRZclqQ+/hWLYh+A9FYrunsbQPHP7QFtadCn1h3q8PRYmp6026UlRGtlvBJNnwGSAhCdmUE5vSUizb1wyxXgBUyFXiuddjFrf64wl6KOQnTOiRxHAhFk/k0rwDZ3zjGMNKHiBFF+zLGtNA9ez7dlN4KJzSkrcSr5LUKAs8lAJaiVMpVW4ikCuwKfkDJe+uYc3yAvGy/M78fLGZrz8nnD5bxUu3wjX4usSDMBasXmC3s670Nt3unD5LXyn9O7Da/xWeI0NvALgF9RBEqXY0gioQzjeUkQOqplr38VhdDpVYhfg2kB5TMygVns3uCNC4tbcEckRyExhBSZiBSymB2uiamBH9WwIq41qS6oU9j7X9QJByFRYRRuqLC4SGK+ZoDkpsH0KKgYML9YM7VJEiAGRmENuEBNFlnWpltadxO2dRR/iqLohfjbttMnI1/O0zlkc17LUx6luUb0ArUZnSej0FM3pe2ahYxbJz6Xg0xcquGP3B+Z9JHxqJO8S5MpukuUn5P8Pxi3pWSQnDwDlVloRCNIhOX82M++QmUUoy5q/VNBD/iteD0i9NZXiZ1gK7xyQ1NKIOa9UxgrIp/begoFd80KdqBj8BnjkGWhXzOhxrl/04HLlOKPHUjUmMj0w6FlZfqEWnzAM967p57jtWJ8XX0lk2Rx0zXa4j17ZNeR6K4dWE7PVFkR7xcM7WEVeSHKm3Y5q5Bi1Yez3CM7krUqD98lLQ1tcn68NjwTmndp72ygOv9FiwwqJSctDIwotLVlef13wfNP6bH5lODEj0Sap43eSxev6B1zql123WdObQno/i25PEMXF0GK19AMzhK5rWPLgD9qxvmXAEnkVClLEEjvDwB1i8WtgAJGaWGWRXCDHvDMB7mmCR+95Z2m7zM+bYy+9QTvDD80x8w49F5QolEI75lDRURuBjIqADIq6PzYEFxnd1dxauCtZN7Gyker/S65Cpup8BZOPbWQwHa8WNZQrdFk1fhfM3XFXH137g2+wztAgVcnLKtO0avhgM7xtZTwidSCBWAj2S69f8vz+ZdKr+RrXPu+pXnNXAu4Mh1O/ds7OeGdcnP5rk9bbap53WveUktxyYwtBWMk9XBTzVYhfoNdrXOQmds4m33INPg2H1sRk1NH6Ck61ET/OnfyTwrv5Fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-11T00:42:35.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="bf4lPr7p8dcAR2YOcX0Z" version="14.9.5" type="github">
+  <diagram id="7rizAYMq0ALZ2gmKse8H" name="Page-1">
+    <mxGraphModel dx="1988" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NO-8LHkDTcuibnYdFdSq-1" target="NO-8LHkDTcuibnYdFdSq-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NO-8LHkDTcuibnYdFdSq-1" target="NO-8LHkDTcuibnYdFdSq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-1" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-5" value="DMS Spark" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="515" y="535" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-7" value="For each driver we set jdbc driver path on /root/jars/&amp;lt;jar_file&amp;gt;&lt;br&gt;https://bitbucket.org/fireman10/ui_config/src/master/dataSources.json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="310" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NO-8LHkDTcuibnYdFdSq-9" target="NO-8LHkDTcuibnYdFdSq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-9" value="S3 bucket(dataqio.s3.amazonaws.com/jars/)&lt;br&gt;&amp;nbsp;where we store all the jar files" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" parent="1" vertex="1">
+          <mxGeometry x="590" y="61" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NO-8LHkDTcuibnYdFdSq-10" target="NO-8LHkDTcuibnYdFdSq-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-10" value="Jenkins job" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" parent="1" vertex="1">
+          <mxGeometry x="365" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NO-8LHkDTcuibnYdFdSq-11" target="NO-8LHkDTcuibnYdFdSq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-11" value="Creates docker container &lt;br&gt;:&amp;nbsp;dataquser/sjars" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" parent="1" vertex="1">
+          <mxGeometry x="370" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NO-8LHkDTcuibnYdFdSq-14" value="populates jars in location : /root/jars/&amp;lt;jar_files&amp;gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file_system_browser;" parent="1" vertex="1">
+          <mxGeometry x="650" y="205.2" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
